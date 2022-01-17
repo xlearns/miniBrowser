@@ -1,0 +1,12 @@
+{
+  "name": "minibrower",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "http":"node serverHttp",
+    "tcp":"node serverTcp"
+  },
+  "author": "",
+  "license": "ISC"
+}
